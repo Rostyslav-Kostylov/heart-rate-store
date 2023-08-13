@@ -86,11 +86,6 @@ $(document).ready(function(){
 
     $('form').submit(function(e) {
         e.preventDefault();
-
-        if (!$(this).validate()) {
-            return;
-        }
-
         $.ajax({
             type: "POST",
             url: "mailer/smart.php",
