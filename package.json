@@ -27,6 +27,7 @@
     "not dead"
   ],
   "dependencies": {
+    "animate.css": "^4.1.1",
     "jquery.maskedinput": "^1.4.1"
   }
 }
