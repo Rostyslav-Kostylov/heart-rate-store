@@ -12,4 +12,4 @@ Educational project №4 on the course on web development on the Udemy website
 relative units. The BEM technology was used in the development of the project.
 
 ## Project links
-Project link to view -
+Project link to view - https://rostyslav-kostylov.github.io/heart-rate-store/#
